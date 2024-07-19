@@ -3,7 +3,7 @@ entries:
   myapp:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-07-19T23:36:45.498986+05:30"
+    created: "2024-07-19T23:39:39.212673+05:30"
     description: A Helm chart for Kubernetes
     digest: dade1b902e723987ecac7b28551f2c7eee0d436affc6049e9c29deb8f9f88b14
     name: myapp
@@ -11,4 +11,4 @@ entries:
     urls:
     - https://adityaprasadpathak.github.io/myapp-helm-charts/myapp-0.1.0.tgz
     version: 0.1.0
-generated: "2024-07-19T23:36:45.402551+05:30"
+generated: "2024-07-19T23:39:39.142644+05:30"
